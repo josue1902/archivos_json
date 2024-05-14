@@ -1,0 +1,46 @@
+{
+    "personas": [
+        {
+            "id": 2,
+            "nombre": "sebastian",
+            "apellido": "elizondo",
+            "dni": 12345678
+        },
+        {
+            "id": 3,
+            "nombre": "maria",
+            "apellido": "cussi",
+            "dni": 37379438
+        },
+        {
+            "id": 4,
+            "nombre": "josue",
+            "apellido": "messi",
+            "dni": 23445564
+        },
+        {
+            "id": 5,
+            "nombre": "diego",
+            "apellido": "maradona",
+            "dni": 45553829
+        },
+        {
+            "id": 5,
+            "nombre": "josu",
+            "apellido": "eli",
+            "dni": 45547915
+        },
+        {
+            "id": 7,
+            "nombre": "juan",
+            "apellido": "beni",
+            "dni": 23367357
+        },
+        {
+            "id": 8,
+            "nombre": "octavio",
+            "apellido": "elizondo",
+            "dni": 98767897
+        }
+    ]
+}
